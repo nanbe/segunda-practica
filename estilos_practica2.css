@@ -1,0 +1,84 @@
+
+body {
+	background: #ff6699;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	color: #ffffff;
+	text-align: center;
+}
+
+h2 {
+	text-align: left;
+	width: 290px;
+	height: 53.4375;
+	margin: 30px;
+	font-size: 21px;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+
+.cupcake {
+	width: 350px;
+	height: 300px;
+	border: 2px;
+	border-color: deeppink;
+	padding: 5px;
+	margin: 28px;
+	background: #ff99cc;
+	float: left;
+}
+
+.pasteles {
+	width: 350px;
+	height: 300px;
+	border: 2px;
+	border-color: deeppink;
+	padding: 5px;
+	margin: 28px;
+	background: #ff99cc;
+	float: left;
+}
+
+.galletas {
+	width: 350px;
+	height: 300px;
+	border: 2px;
+	border-color: deeppink;
+	padding: 5px;
+	margin: 28px;
+	background: #ff99cc;
+	float: left;
+}
+
+.texto-cupcakes {
+	width: 350px;
+	height: 300px;
+	margin: 30px;
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Droid Sans';
+}
+
+.texto-pasteles {
+	width: 350px;
+	height: 300px;
+	margin: 30px;
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Droid Sans';
+	margin-left: 443px;
+}
+
+.texto-galletas {
+	width: 350px;
+	height: 300px;
+	margin: 30px;
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Droid Sans';
+	margin-right: 52px;
+	margin-top: -330px;
+	float: right;
+}
