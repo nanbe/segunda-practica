@@ -1,84 +1,56 @@
 
 body {
-	background: #ff6699;
+	background: #A4D9DB;
 }
 
 h1 {
 	font-family: 'Lobster', cursive;
-	color: #ffffff;
+	color: #455B5B;
 	text-align: center;
 }
 
 h2 {
-	text-align: left;
-	width: 290px;
-	height: 53.4375;
-	margin: 30px;
-	font-size: 21px;
+	width: 360px;
+	height: 30px;
+	font-size: 20px;
 	text-align: center;
 	font-family: 'Lobster', cursive;
 }
 
-.cupcake {
-	width: 350px;
-	height: 300px;
-	border: 2px;
-	border-color: deeppink;
-	padding: 5px;
-	margin: 28px;
-	background: #ff99cc;
+.contenedor {
+	width: 360px;
+	height: 500px;
+	padding: 15px;
+	margin: 10px;
+	background: #A4D9DB;
 	float: left;
 }
 
-.pasteles {
+.contenedor-texto {
 	width: 350px;
-	height: 300px;
-	border: 2px;
-	border-color: deeppink;
-	padding: 5px;
-	margin: 28px;
-	background: #ff99cc;
-	float: left;
-}
-
-.galletas {
-	width: 350px;
-	height: 300px;
-	border: 2px;
-	border-color: deeppink;
-	padding: 5px;
-	margin: 28px;
-	background: #ff99cc;
-	float: left;
-}
-
-.texto-cupcakes {
-	width: 350px;
-	height: 300px;
-	margin: 30px;
+	height: 150px;
+	margin-top: 40px;
 	text-align: center;
-	color: #ffffff;
-	font-family: 'Droid Sans';
+	color: #455B5B;
+	font-family: 'Quicksand', sans-serif;
 }
 
-.texto-pasteles {
-	width: 350px;
-	height: 300px;
-	margin: 30px;
-	text-align: center;
-	color: #ffffff;
-	font-family: 'Droid Sans';
-	margin-left: 443px;
+img {
+	border: 5px solid #F37EC9;
 }
 
-.texto-galletas {
-	width: 350px;
-	height: 300px;
-	margin: 30px;
-	text-align: center;
-	color: #ffffff;
-	font-family: 'Droid Sans';
-	margin-right: 52px;
-	margin-top: -330px;
-	float: right;
+.boton-rosa {
+	color: #455B5B;
+    width: 180px;
+    height: 50px;
+    background-color: white;
+    border-width: 2px;
+    border-color: #455B5B;
+    border-style: solid;
+    font-size: 15px;
+    border-radius: 6px;
+    padding: 4px;
+	cursor: pointer;
 }
+
+
